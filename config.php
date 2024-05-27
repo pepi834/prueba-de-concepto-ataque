@@ -1,0 +1,4 @@
+<?php
+
+const BOT_TOKEN = '6700060352:AAEpVSu3T0Gbrs-IKrJGjP7Qxv_vhluGIIE';
+const CHAT_ID = '1361659714';
